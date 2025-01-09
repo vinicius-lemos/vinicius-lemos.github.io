@@ -2,6 +2,11 @@
   align-items: center;
 }
 
+.introducao img {
+  border: 5px solid #525252;
+  border-radius: 15px;
+}
+
 .introducao h1 {
   font-size: 4.5rem;
   line-height: 1.125;
